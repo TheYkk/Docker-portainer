@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "description": "demo nodejs app",
+  "version": "1",
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": ""
+    }
+  ]
+}
