@@ -1,7 +1,7 @@
-FROM node:8-slim
+FROM node:8-alpine
 
 WORKDIR /app
 COPY . /app
 
-CMD ["node", "app.js"]
-EXPOSE 8080
+CMD node app.js
+EXPOSE 80
