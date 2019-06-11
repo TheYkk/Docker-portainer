@@ -2,7 +2,6 @@
 
 THEURL='http://IP YAZILACAK:8080/'
 
-
 # curl it
 while true
 do 
